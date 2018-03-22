@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+//comment to add for step 7 in the lab.
 using System.Text;
 //adding another comment but for branch_1
 //new line step 11 branch_1
 using System.Threading.Tasks;
 
-//comment to add for step 7 in the lab.
 
 namespace Lab2
 {
