@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 //adding another comment for step 11
+//adding another comment in master
+//step 11 new line master
 using System.Linq;
 //comment to add for step 7 in the lab.
 using System.Text;
