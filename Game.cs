@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+
 //step 13 creating another conflict on the file
 //adding another comment for step 11
+//for comments for example, you can just adjust the lines of the comments to go to the corresponding areas
+//step13 creating another conflict
+
 //adding another comment in master
 //step 11 new line master
 using System.Linq;
